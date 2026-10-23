@@ -4,5 +4,11 @@
     "sourceCommit": "9e8cdf8af2183d21f70913de0c322f8f2a1a1dd6",
     "sourceDate": "2026-10-23T18:10:30+08:00",
     "title": "Première interface et import de données"
+  },
+  {
+    "stage": 2,
+    "sourceCommit": "b4326505cf47fe501b31fef87c145909da6cfcc5",
+    "sourceDate": "2026-10-23T18:35:44+08:00",
+    "title": "Sculptures 3D et six représentations"
   }
 ]
