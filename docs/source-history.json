@@ -16,5 +16,11 @@
     "sourceCommit": "8bc952aba78f5851d72693b0b0ee44fc984e38d1",
     "sourceDate": "2026-10-23T18:55:05+08:00",
     "title": "Lisibilité, navigation et panneau de valeur"
+  },
+  {
+    "stage": 4,
+    "sourceCommit": "8a8fcc4f4b60d41178834d8f0c99f23090e22b7a",
+    "sourceDate": "2026-10-23T18:56:10+08:00",
+    "title": "Ajustement des espacements et statistiques"
   }
 ]

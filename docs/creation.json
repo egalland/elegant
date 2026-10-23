@@ -10,8 +10,8 @@
   "createdOn": "2026-10-23",
   "repository": "https://github.com/egalland/elegant",
   "appUrl": "https://egalland.github.io/elegant/",
-  "sourceCommit": "8bc952aba78f5851d72693b0b0ee44fc984e38d1",
-  "sourceStages": 3,
+  "sourceCommit": "8a8fcc4f4b60d41178834d8f0c99f23090e22b7a",
+  "sourceStages": 4,
   "format": "HTML autonome",
   "technologies": [
     "HTML",
@@ -67,5 +67,5 @@
     "Vue PC 1366 × 768",
     "Présence de la favicon"
   ],
-  "standaloneSha256": "4c5963f28047236328fa7fecd46d915ccf48e4cafa31fd3aa417e53d37e7ba78"
+  "standaloneSha256": "7adb53bdd19955352d73c22901ac16983872cfc1d5463854f09f4156af0b035e"
 }
