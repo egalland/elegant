@@ -6,3 +6,4 @@ Les étapes ci-dessous sont réimportées sur GitHub dans leur ordre de créatio
 2. **Sculptures 3D et six représentations** — source `b4326505cf47fe501b31fef87c145909da6cfcc5`, date `2026-10-23T18:35:44+08:00`.
 3. **Lisibilité, navigation et panneau de valeur** — source `8bc952aba78f5851d72693b0b0ee44fc984e38d1`, date `2026-10-23T18:55:05+08:00`.
 4. **Ajustement des espacements et statistiques** — source `8a8fcc4f4b60d41178834d8f0c99f23090e22b7a`, date `2026-10-23T18:56:10+08:00`.
+5. **Graphique dès l’accueil et favicon** — source `a9c3381695a8118cdf40708a6806798ca732a992`, date `2026-10-23T19:08:03+08:00`.

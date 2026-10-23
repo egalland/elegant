@@ -22,5 +22,11 @@
     "sourceCommit": "8a8fcc4f4b60d41178834d8f0c99f23090e22b7a",
     "sourceDate": "2026-10-23T18:56:10+08:00",
     "title": "Ajustement des espacements et statistiques"
+  },
+  {
+    "stage": 5,
+    "sourceCommit": "a9c3381695a8118cdf40708a6806798ca732a992",
+    "sourceDate": "2026-10-23T19:08:03+08:00",
+    "title": "Graphique dès l’accueil et favicon"
   }
 ]
