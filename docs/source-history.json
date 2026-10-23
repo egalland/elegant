@@ -10,5 +10,11 @@
     "sourceCommit": "b4326505cf47fe501b31fef87c145909da6cfcc5",
     "sourceDate": "2026-10-23T18:35:44+08:00",
     "title": "Sculptures 3D et six représentations"
+  },
+  {
+    "stage": 3,
+    "sourceCommit": "8bc952aba78f5851d72693b0b0ee44fc984e38d1",
+    "sourceDate": "2026-10-23T18:55:05+08:00",
+    "title": "Lisibilité, navigation et panneau de valeur"
   }
 ]
